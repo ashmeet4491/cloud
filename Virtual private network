@@ -1,0 +1,14 @@
+virtual machto be accessed outsidine has 
+-public ip
+-connectivity
+it will give u public ip and dns so that we can access this machine from outside
+why public  do we need a key pair
+for encryption but here using key we can access the server
+why key pair?
+the key generated is private key and public key?
+RDP?
+remote desktop protocol
+SSH-(Secured shell connection)
+BOOTD-
+ICMP-
+
